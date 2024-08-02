@@ -1,0 +1,100 @@
+stop,time,action,state,day,date,distanceMiles,distanceKM,stopNumber,timeDate,direction,trainID
+seattle,9:45,start,wa,monday,11/16/2020,0,0,1,11/16-09:45,toLA,1
+tacoma,10:37,stop,wa,monday,11/16/2020,39,63,2,11/16-10:37,toLA,1
+olympia-lacey,11:27,stop,wa,monday,11/16/2020,75,121,3,11/16-11:27,toLA,1
+centralia,11:51,stop,wa,monday,11/16/2020,94,151,4,11/16-11:51,toLA,1
+kelso-longview,12:35,stop,wa,monday,11/16/2020,137,220,5,11/16-12:35,toLA,1
+vancouver,13:18,stop,wa,monday,11/16/2020,177,285,6,11/16-13:18,toLA,1
+portland,14:00,arrive,or,monday,11/16/2020,187,301,7,11/16-14:00,toLA,1
+portland,14:25,depart,or,monday,11/16/2020,187,301,8,11/16-14:25,toLA,1
+salem,15:37,stop,or,monday,11/16/2020,239,385,9,11/16-15:37,toLA,1
+albany,16:10,stop,or,monday,11/16/2020,267,430,10,11/16-16:10,toLA,1
+eugene-springfield,17:10,stop,or,monday,11/16/2020,310,499,11,11/16-17:10,toLA,1
+chemult,20:08,stop,or,monday,11/16/2020,432,695,12,11/16-20:08,toLA,1
+klamath falls,22:00,stop,or,tuesday,11/16/2020,505,813,13,11/16-22:00,toLA,1
+dunsmuir,0:35,stop,ca,tuesday,11/17/2020,610,982,14,11/17-00:35,toLA,1
+redding,2:21,stop,ca,tuesday,11/17/2020,665,1070,15,11/17-02:21,toLA,1
+chico,3:50,stop,ca,tuesday,11/17/2020,739,1189,16,11/17-03:50,toLA,1
+sacramento,6:35,stop,ca,tuesday,11/17/2020,824,1326,17,11/17-06:35,toLA,1
+davis,6:50,stop,ca,tuesday,11/17/2020,837,1347,18,11/17-06:50,toLA,1
+martinez,7:34,stop,ca,tuesday,11/17/2020,881,1418,19,11/17-07:34,toLA,1
+emeryville,8:10,arrive,ca,tuesday,11/17/2020,908,1461,20,11/17-08:10,toLA,1
+emeryville,8:20,depart,ca,tuesday,11/17/2020,908,1461,21,11/17-08:20,toLA,1
+oakland,8:35,arrive,ca,tuesday,11/17/2020,913,1469,22,11/17-08:35,toLA,1
+oakland,8:50,depart,ca,tuesday,11/17/2020,913,1469,23,11/17-08:50,toLA,1
+san jose,10:07,stop,ca,tuesday,11/17/2020,954,1535,24,11/17-10:07,toLA,1
+salinas,11:48,stop,ca,tuesday,11/17/2020,1021,1643,25,11/17-11:48,toLA,1
+paso robles,13:38,stop,ca,tuesday,11/17/2020,1119,1801,26,11/17-13:38,toLA,1
+san luis obispo,15:20,stop,ca,tuesday,11/17/2020,1157,1862,27,11/17-15:20,toLA,1
+santa barbara,18:02,stop,ca,tuesday,11/17/2020,1274,2050,28,11/17-18:02,toLA,1
+oxnard,19:05,stop,ca,tuesday,11/17/2020,1310,2108,29,11/17-19:05,toLA,1
+simi valley,19:48,stop,ca,tuesday,11/17/2020,1341,2158,30,11/17-19:48,toLA,1
+van nuys,20:22,stop,ca,tuesday,11/17/2020,1358,2185,31,11/17-20:22,toLA,1
+burbank airport,20:31,stop,ca,tuesday,11/17/2020,1363,2194,32,11/17-20:31,toLA,1
+los angeles,21:00,end,ca,tuesday,11/17/2020,1377,2216,33,11/17-21:00,toLA,1
+seattle,9:45,start,wa,wednesday,11/18/2020,0,0,1,11/18-09:45,toLA,2
+tacoma,10:37,stop,wa,wednesday,11/18/2020,39,63,2,11/18-10:37,toLA,2
+olympia-lacey,11:27,stop,wa,wednesday,11/18/2020,75,121,3,11/18-11:27,toLA,2
+centralia,11:51,stop,wa,wednesday,11/18/2020,94,151,4,11/18-11:51,toLA,2
+kelso-longview,12:35,stop,wa,wednesday,11/18/2020,137,220,5,11/18-12:35,toLA,2
+vancouver,13:18,stop,wa,wednesday,11/18/2020,177,285,6,11/18-13:18,toLA,2
+portland,14:00,arrive,or,wednesday,11/18/2020,187,301,7,11/18-14:00,toLA,2
+portland,14:25,depart,or,wednesday,11/18/2020,187,301,8,11/18-14:25,toLA,2
+salem,15:37,stop,or,wednesday,11/18/2020,239,385,9,11/18-15:37,toLA,2
+albany,16:10,stop,or,wednesday,11/18/2020,267,430,10,11/18-16:10,toLA,2
+eugene-springfield,17:10,stop,or,wednesday,11/18/2020,310,499,11,11/18-17:10,toLA,2
+chemult,20:08,stop,or,wednesday,11/18/2020,432,695,12,11/18-20:08,toLA,2
+klamath falls,22:00,stop,or,wednesday,11/18/2020,505,813,13,11/18-22:00,toLA,2
+dunsmuir,0:35,stop,ca,thursday,11/19/2020,610,982,14,11/19-00:35,toLA,2
+redding,2:21,stop,ca,thursday,11/19/2020,665,1070,15,11/19-02:21,toLA,2
+chico,3:50,stop,ca,thursday,11/19/2020,739,1189,16,11/19-03:50,toLA,2
+sacramento,6:35,stop,ca,thursday,11/19/2020,824,1326,17,11/19-06:35,toLA,2
+davis,6:50,stop,ca,thursday,11/19/2020,837,1347,18,11/19-06:50,toLA,2
+martinez,7:34,stop,ca,thursday,11/19/2020,881,1418,19,11/19-07:34,toLA,2
+emeryville,8:10,arrive,ca,thursday,11/19/2020,908,1461,20,11/19-08:10,toLA,2
+emeryville,8:20,depart,ca,thursday,11/19/2020,908,1461,21,11/19-08:20,toLA,2
+oakland,8:35,arrive,ca,thursday,11/19/2020,913,1469,22,11/19-08:35,toLA,2
+oakland,8:50,depart,ca,thursday,11/19/2020,913,1469,23,11/19-08:50,toLA,2
+san jose,10:07,stop,ca,thursday,11/19/2020,954,1535,24,11/19-10:07,toLA,2
+salinas,11:48,stop,ca,thursday,11/19/2020,1021,1643,25,11/19-11:48,toLA,2
+paso robles,13:38,stop,ca,thursday,11/19/2020,1119,1801,26,11/19-13:38,toLA,2
+san luis obispo,15:20,stop,ca,thursday,11/19/2020,1157,1862,27,11/19-15:20,toLA,2
+santa barbara,18:02,stop,ca,thursday,11/19/2020,1274,2050,28,11/19-18:02,toLA,2
+oxnard,19:05,stop,ca,thursday,11/19/2020,1310,2108,29,11/19-19:05,toLA,2
+simi valley,19:48,stop,ca,thursday,11/19/2020,1341,2158,30,11/19-19:48,toLA,2
+van nuys,20:22,stop,ca,thursday,11/19/2020,1358,2185,31,11/19-20:22,toLA,2
+burbank airport,20:31,stop,ca,thursday,11/19/2020,1363,2194,32,11/19-20:31,toLA,2
+los angeles,21:00,end,ca,thursday,11/19/2020,1377,2216,33,11/19-21:00,toLA,2
+seattle,9:45,start,wa,saturday,11/21/2020,0,0,1,11/21-09:45,toLA,3
+tacoma,10:37,stop,wa,saturday,11/21/2020,39,63,2,11/21-10:37,toLA,3
+olympia-lacey,11:27,stop,wa,saturday,11/21/2020,75,121,3,11/21-11:27,toLA,3
+centralia,11:51,stop,wa,saturday,11/21/2020,94,151,4,11/21-11:51,toLA,3
+kelso-longview,12:35,stop,wa,saturday,11/21/2020,137,220,5,11/21-12:35,toLA,3
+vancouver,13:18,stop,wa,saturday,11/21/2020,177,285,6,11/21-13:18,toLA,3
+portland,14:00,arrive,or,saturday,11/21/2020,187,301,7,11/21-14:00,toLA,3
+portland,14:25,depart,or,saturday,11/21/2020,187,301,8,11/21-14:25,toLA,3
+salem,15:37,stop,or,saturday,11/21/2020,239,385,9,11/21-15:37,toLA,3
+albany,16:10,stop,or,saturday,11/21/2020,267,430,10,11/21-16:10,toLA,3
+eugene-springfield,17:10,stop,or,saturday,11/21/2020,310,499,11,11/21-17:10,toLA,3
+chemult,20:08,stop,or,saturday,11/21/2020,432,695,12,11/21-20:08,toLA,3
+klamath falls,22:00,stop,or,saturday,11/21/2020,505,813,13,11/21-22:00,toLA,3
+dunsmuir,0:35,stop,ca,sunday,11/22/2020,610,982,14,11/22-00:35,toLA,3
+redding,2:21,stop,ca,sunday,11/22/2020,665,1070,15,11/22-02:21,toLA,3
+chico,3:50,stop,ca,sunday,11/22/2020,739,1189,16,11/22-03:50,toLA,3
+sacramento,6:35,stop,ca,sunday,11/22/2020,824,1326,17,11/22-06:35,toLA,3
+davis,6:50,stop,ca,sunday,11/22/2020,837,1347,18,11/22-06:50,toLA,3
+martinez,7:34,stop,ca,sunday,11/22/2020,881,1418,19,11/22-07:34,toLA,3
+emeryville,8:10,arrive,ca,sunday,11/22/2020,908,1461,20,11/22-08:10,toLA,3
+emeryville,8:20,depart,ca,sunday,11/22/2020,908,1461,21,11/22-08:20,toLA,3
+oakland,8:35,arrive,ca,sunday,11/22/2020,913,1469,22,11/22-08:35,toLA,3
+oakland,8:50,depart,ca,sunday,11/22/2020,913,1469,23,11/22-08:50,toLA,3
+san jose,10:07,stop,ca,sunday,11/22/2020,954,1535,24,11/22-10:07,toLA,3
+salinas,11:48,stop,ca,sunday,11/22/2020,1021,1643,25,11/22-11:48,toLA,3
+paso robles,13:38,stop,ca,sunday,11/22/2020,1119,1801,26,11/22-13:38,toLA,3
+san luis obispo,15:20,stop,ca,sunday,11/22/2020,1157,1862,27,11/22-15:20,toLA,3
+santa barbara,18:02,stop,ca,sunday,11/22/2020,1274,2050,28,11/22-18:02,toLA,3
+oxnard,19:05,stop,ca,sunday,11/22/2020,1310,2108,29,11/22-19:05,toLA,3
+simi valley,19:48,stop,ca,sunday,11/22/2020,1341,2158,30,11/22-19:48,toLA,3
+van nuys,20:22,stop,ca,sunday,11/22/2020,1358,2185,31,11/22-20:22,toLA,3
+burbank airport,20:31,stop,ca,sunday,11/22/2020,1363,2194,32,11/22-20:31,toLA,3
+los angeles,21:00,end,ca,sunday,11/22/2020,1377,2216,33,11/22-21:00,toLA,3

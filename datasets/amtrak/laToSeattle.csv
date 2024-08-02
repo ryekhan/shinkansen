@@ -1,0 +1,100 @@
+stop,time,action,state,day,date,distanceMiles,distanceKM,stopNumber,timeDate,direction,trainID
+los angeles,10:10,start,ca,monday,11/16/2020,1377,2216,1,11/16-10:10,toSeattle,4
+burbank airport,10:29,stop,ca,monday,11/16/2020,1363,2194,2,11/16-10:29,toSeattle,4
+van nuys,10:40,stop,ca,monday,11/16/2020,1358,2185,3,11/16-10:40,toSeattle,4
+simi valley,11:11,stop,ca,monday,11/16/2020,1341,2158,4,11/16-11:11,toSeattle,4
+oxnard,11:44,stop,ca,monday,11/16/2020,1310,2108,5,11/16-11:44,toSeattle,4
+santa barbara,12:40,stop,ca,monday,11/16/2020,1274,2050,6,11/16-12:40,toSeattle,4
+san luis obispo,15:35,stop,ca,monday,11/16/2020,1157,1862,7,11/16-15:35,toSeattle,4
+paso robles,16:37,stop,ca,monday,11/16/2020,1119,1801,8,11/16-16:37,toSeattle,4
+salinas,18:28,stop,ca,monday,11/16/2020,1021,1643,9,11/16-18:28,toSeattle,4
+san jose,20:23,stop,ca,monday,11/16/2020,954,1535,10,11/16-20:23,toSeattle,4
+oakland,21:24,arrive,ca,monday,11/16/2020,913,1469,11,11/16-21:24,toSeattle,4
+oakland,21:39,depart,ca,monday,11/16/2020,913,1469,12,11/16-21:39,toSeattle,4
+emeryville,21:54,arrive,ca,monday,11/16/2020,908,1461,13,11/16-21:54,toSeattle,4
+emeryville,22:04,depart,ca,monday,11/16/2020,908,1461,14,11/16-22:04,toSeattle,4
+martinez,22:46,stop,ca,monday,11/16/2020,881,1418,15,11/16-22:46,toSeattle,4
+davis,23:25,stop,ca,monday,11/16/2020,837,1347,16,11/16-23:25,toSeattle,4
+sacramento,23:59,stop,ca,monday,11/16/2020,824,1326,17,11/16-23:59,toSeattle,4
+chico,1:47,stop,ca,tuesday,11/17/2020,739,1189,18,11/17-01:47,toSeattle,4
+redding,3:06,stop,ca,tuesday,11/17/2020,665,1070,19,11/17-03:06,toSeattle,4
+dunsmuir,4:56,stop,ca,tuesday,11/17/2020,610,982,20,11/17-04:56,toSeattle,4
+klamath falls,8:17,stop,or,tuesday,11/17/2020,505,813,21,11/17-08:17,toSeattle,4
+chemult,9:32,stop,or,tuesday,11/17/2020,432,695,22,11/17-09:32,toSeattle,4
+eugene-springfield,12:36,stop,or,tuesday,11/17/2020,310,499,23,11/17-12:36,toSeattle,4
+albany,13:22,stop,or,tuesday,11/17/2020,267,430,24,11/17-13:22,toSeattle,4
+salem,13:55,stop,or,tuesday,11/17/2020,239,385,25,11/17-13:55,toSeattle,4
+portland,15:32,arrive,or,tuesday,11/17/2020,187,301,26,11/17-15:32,toSeattle,4
+portland,15:56,depart,or,tuesday,11/17/2020,187,301,27,11/17-15:56,toSeattle,4
+vancouver,16:16,stop,wa,tuesday,11/17/2020,177,285,28,11/17-16:16,toSeattle,4
+kelso-longview,16:51,stop,wa,tuesday,11/17/2020,137,220,29,11/17-16:51,toSeattle,4
+centralia,17:36,stop,wa,tuesday,11/17/2020,94,151,30,11/17-17:36,toSeattle,4
+olympia-lacey,18:01,stop,wa,tuesday,11/17/2020,75,121,31,11/17-18:01,toSeattle,4
+tacoma,18:50,stop,wa,tuesday,11/17/2020,39,63,32,11/17-18:50,toSeattle,4
+seattle,19:56,end,wa,tuesday,11/17/2020,0,0,33,11/17-19:56,toSeattle,4
+los angeles,10:10,start,ca,wednesday,11/18/2020,1377,2216,1,11/18-10:10,toSeattle,5
+burbank airport,10:29,stop,ca,wednesday,11/18/2020,1363,2194,2,11/18-10:29,toSeattle,5
+van nuys,10:40,stop,ca,wednesday,11/18/2020,1358,2185,3,11/18-10:40,toSeattle,5
+simi valley,11:11,stop,ca,wednesday,11/18/2020,1341,2158,4,11/18-11:11,toSeattle,5
+oxnard,11:44,stop,ca,wednesday,11/18/2020,1310,2108,5,11/18-11:44,toSeattle,5
+santa barbara,12:40,stop,ca,wednesday,11/18/2020,1274,2050,6,11/18-12:40,toSeattle,5
+san luis obispo,15:35,stop,ca,wednesday,11/18/2020,1157,1862,7,11/18-15:35,toSeattle,5
+paso robles,16:37,stop,ca,wednesday,11/18/2020,1119,1801,8,11/18-16:37,toSeattle,5
+salinas,18:28,stop,ca,wednesday,11/18/2020,1021,1643,9,11/18-18:28,toSeattle,5
+san jose,20:23,stop,ca,wednesday,11/18/2020,954,1535,10,11/18-20:23,toSeattle,5
+oakland,21:24,arrive,ca,wednesday,11/18/2020,913,1469,11,11/18-21:24,toSeattle,5
+oakland,21:39,depart,ca,wednesday,11/18/2020,913,1469,12,11/18-21:39,toSeattle,5
+emeryville,21:54,arrive,ca,wednesday,11/18/2020,908,1461,13,11/18-21:54,toSeattle,5
+emeryville,22:04,depart,ca,wednesday,11/18/2020,908,1461,14,11/18-22:04,toSeattle,5
+martinez,22:46,stop,ca,wednesday,11/18/2020,881,1418,15,11/18-22:46,toSeattle,5
+davis,23:25,stop,ca,wednesday,11/18/2020,837,1347,16,11/18-23:25,toSeattle,5
+sacramento,23:59,stop,ca,wednesday,11/18/2020,824,1326,17,11/18-23:59,toSeattle,5
+chico,1:47,stop,ca,thursday,11/19/2020,739,1189,18,11/19-01:47,toSeattle,5
+redding,3:06,stop,ca,thursday,11/19/2020,665,1070,19,11/19-03:06,toSeattle,5
+dunsmuir,4:56,stop,ca,thursday,11/19/2020,610,982,20,11/19-04:56,toSeattle,5
+klamath falls,8:17,stop,or,thursday,11/19/2020,505,813,21,11/19-08:17,toSeattle,5
+chemult,9:32,stop,or,thursday,11/19/2020,432,695,22,11/19-09:32,toSeattle,5
+eugene-springfield,12:36,stop,or,thursday,11/19/2020,310,499,23,11/19-12:36,toSeattle,5
+albany,13:22,stop,or,thursday,11/19/2020,267,430,24,11/19-13:22,toSeattle,5
+salem,13:55,stop,or,thursday,11/19/2020,239,385,25,11/19-13:55,toSeattle,5
+portland,15:32,arrive,or,thursday,11/19/2020,187,301,26,11/19-15:32,toSeattle,5
+portland,15:56,depart,or,thursday,11/19/2020,187,301,27,11/19-15:56,toSeattle,5
+vancouver,16:16,stop,wa,thursday,11/19/2020,177,285,28,11/19-16:16,toSeattle,5
+kelso-longview,16:51,stop,wa,thursday,11/19/2020,137,220,29,11/19-16:51,toSeattle,5
+centralia,17:36,stop,wa,thursday,11/19/2020,94,151,30,11/19-17:36,toSeattle,5
+olympia-lacey,18:01,stop,wa,thursday,11/19/2020,75,121,31,11/19-18:01,toSeattle,5
+tacoma,18:50,stop,wa,thursday,11/19/2020,39,63,32,11/19-18:50,toSeattle,5
+seattle,19:56,end,wa,thursday,11/19/2020,0,0,33,11/19-19:56,toSeattle,5
+los angeles,10:10,start,ca,friday,11/20/2020,1377,2216,1,11/20-10:10,toSeattle,6
+burbank airport,10:29,stop,ca,friday,11/20/2020,1363,2194,2,11/20-10:29,toSeattle,6
+van nuys,10:40,stop,ca,friday,11/20/2020,1358,2185,3,11/20-10:40,toSeattle,6
+simi valley,11:11,stop,ca,friday,11/20/2020,1341,2158,4,11/20-11:11,toSeattle,6
+oxnard,11:44,stop,ca,friday,11/20/2020,1310,2108,5,11/20-11:44,toSeattle,6
+santa barbara,12:40,stop,ca,friday,11/20/2020,1274,2050,6,11/20-12:40,toSeattle,6
+san luis obispo,15:35,stop,ca,friday,11/20/2020,1157,1862,7,11/20-15:35,toSeattle,6
+paso robles,16:37,stop,ca,friday,11/20/2020,1119,1801,8,11/20-16:37,toSeattle,6
+salinas,18:28,stop,ca,friday,11/20/2020,1021,1643,9,11/20-18:28,toSeattle,6
+san jose,20:23,stop,ca,friday,11/20/2020,954,1535,10,11/20-20:23,toSeattle,6
+oakland,21:24,arrive,ca,friday,11/20/2020,913,1469,11,11/20-21:24,toSeattle,6
+oakland,21:39,depart,ca,friday,11/20/2020,913,1469,12,11/20-21:39,toSeattle,6
+emeryville,21:54,arrive,ca,friday,11/20/2020,908,1461,13,11/20-21:54,toSeattle,6
+emeryville,22:04,depart,ca,friday,11/20/2020,908,1461,14,11/20-22:04,toSeattle,6
+martinez,22:46,stop,ca,friday,11/20/2020,881,1418,15,11/20-22:46,toSeattle,6
+davis,23:25,stop,ca,friday,11/20/2020,837,1347,16,11/20-23:25,toSeattle,6
+sacramento,23:59,stop,ca,friday,11/20/2020,824,1326,17,11/20-23:59,toSeattle,6
+chico,1:47,stop,ca,saturday,11/21/2020,739,1189,18,11/21-01:47,toSeattle,6
+redding,3:06,stop,ca,saturday,11/21/2020,665,1070,19,11/21-03:06,toSeattle,6
+dunsmuir,4:56,stop,ca,saturday,11/21/2020,610,982,20,11/21-04:56,toSeattle,6
+klamath falls,8:17,stop,or,saturday,11/21/2020,505,813,21,11/21-08:17,toSeattle,6
+chemult,9:32,stop,or,saturday,11/21/2020,432,695,22,11/21-09:32,toSeattle,6
+eugene-springfield,12:36,stop,or,saturday,11/21/2020,310,499,23,11/21-12:36,toSeattle,6
+albany,13:22,stop,or,saturday,11/21/2020,267,430,24,11/21-13:22,toSeattle,6
+salem,13:55,stop,or,saturday,11/21/2020,239,385,25,11/21-13:55,toSeattle,6
+portland,15:32,arrive,or,saturday,11/21/2020,187,301,26,11/21-15:32,toSeattle,6
+portland,15:56,depart,or,saturday,11/21/2020,187,301,27,11/21-15:56,toSeattle,6
+vancouver,16:16,stop,wa,saturday,11/21/2020,177,285,28,11/21-16:16,toSeattle,6
+kelso-longview,16:51,stop,wa,saturday,11/21/2020,137,220,29,11/21-16:51,toSeattle,6
+centralia,17:36,stop,wa,saturday,11/21/2020,94,151,30,11/21-17:36,toSeattle,6
+olympia-lacey,18:01,stop,wa,saturday,11/21/2020,75,121,31,11/21-18:01,toSeattle,6
+tacoma,18:50,stop,wa,saturday,11/21/2020,39,63,32,11/21-18:50,toSeattle,6
+seattle,19:56,end,wa,saturday,11/21/2020,0,0,33,11/21-19:56,toSeattle,6

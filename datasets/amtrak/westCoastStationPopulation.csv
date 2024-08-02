@@ -1,0 +1,31 @@
+station,city,state,stateShort,pop
+seattle,seattle,washington,wa,753675
+tacoma,tacoma,washington,wa,217827
+olympia-lacey,olympia,washington,wa,105474
+centralia,centralia,washington,wa,17745
+kelso-longview,kelso,washington,wa,50857
+vancouver,vancouver,washington,wa,184463
+portland,portland,oregon,or,654741
+salem,salem,oregon,or,174365
+albany,albany,oregon,or,55338
+eugene-springfield,eugene,oregon,or,235852
+chemult,chemult,oregon,or,300
+klamath falls,klamath falls,oregon,or,21753
+dunsmuir,dunsmuir,california,ca,1564
+redding,redding,california,ca,92590
+chico,chico,california,ca,103301
+sacramento,sacramento,california,ca,513624
+davis,davis,california,ca,69413
+martinez,martinez,california,ca,38297
+emeryville,emeryville,california,ca,12086
+oakland,oakland,california,ca,433031
+san jose,san jose,california,ca,1021795
+salinas,salinas,california,ca,155465
+paso robles,paso robles,california,ca,32153
+san luis obispo,san luis obispo,california,ca,47459
+santa barbara,santa barbara,california,ca,91364
+oxnard,oxnard,california,ca,208881
+simi valley,simi valley,california,ca,125613
+van nuys,los angeles,california,ca,136443
+burbank airport,burbank,california,ca,102511
+los angeles,los angeles,california,ca,3979576
